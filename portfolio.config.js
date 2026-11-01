@@ -2,9 +2,9 @@ window.PORTFOLIO = {
   name: 'Rahul Mishra', firstName: 'RAHUL MISHRA', role: 'Aspiring Python Developer',
   intro: 'B.Tech Computer Science graduate focused on cybersecurity. I spent a year as a security intern running vulnerability scans and have built projects including a Python intrusion detection system and a billing and inventory system.',
   location: '', email: 'rahulmishratech3@gmail.com',
-  accent: '#ed2444', portrait: 'assets/portrait.png', alternatePortrait: '',
+  accent: '#ed2444', portrait: 'portrait.png', alternatePortrait: '',
   links: {whatsapp:'',instagram:'',linkedin:'https://www.linkedin.com/in/rahulmishraneera2803',github:'https://github.com/rahulmishratech3-cyber'},
-  resume: 'assets/Rahul_Mishra_Resume.pdf',
+  resume: 'Rahul_Mishra_Resume.pdf',
   about: 'I am a B.Tech Computer Science graduate (2026) with a focus on cybersecurity. I spent a year as a security intern running vulnerability scans and security checks, and I have built several projects of my own, including a Python intrusion detection system, a billing and inventory system (web and desktop), and an Android translation app.',
   services: [
     {title:'Vulnerability Assessment',detail:'Scanning systems with Nmap, Zenmap and Nessus, testing for SQL injection and parameter tampering, and writing up findings with steps to fix them.'},
